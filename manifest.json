@@ -1,7 +1,7 @@
 {
   "name": "Calcolatrice Stealth",
   "short_name": "Calcolatrice",
-  "start_url": "./calcolatrice.html",
+  "start_url": "/calcolatrice.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
